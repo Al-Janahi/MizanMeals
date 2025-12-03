@@ -83,7 +83,7 @@ yarn start
 
 ## Project Structure
 
-\`\`\`
+```text
 mizan-meals/
 ├── app/                          # Next.js App Router pages
 │   ├── page.tsx                  # Homepage
@@ -112,8 +112,7 @@ mizan-meals/
 │   ├── utils.ts                  # Helper functions
 │   └── mock-data.ts              # Sample data (300+ meals)
 └── public/                       # Static assets
-
-\`\`\`
+```
 
 ## Key Routes
 
